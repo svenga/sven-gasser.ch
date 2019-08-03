@@ -1,0 +1,24 @@
+@import url("fontawesome-all.min.css");
+
+/* CSS-Styling | sven-gasser.ch
+ .oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.oOo.
+*/
+
+
+#page {
+        margin: 2vh 2vw 0;
+        padding: 0;
+        background-color: #ffffff;
+        position: static;
+        font-family: 'Oswald', sans-serif;
+}
+
+#header {
+        ;
+
+}
+
+.logo {
+        font-family: 'Lato', sans-serif;
+}
+
