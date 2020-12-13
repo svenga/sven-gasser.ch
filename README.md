@@ -1,2 +1,2 @@
 # sven-gasser.ch
-My personal homepage
+My personal homepage. Nothing special. 
